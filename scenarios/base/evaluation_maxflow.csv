@@ -1,0 +1,2 @@
+Total_Allocated,Demand_Satisfied_%,Supply_Utilized_%,Allocation_Variance,Fairness_Small_Farmers_%,Average_Distance_km,Total_Allocations,Algorithm
+208833,69.52,37.95,0.494,58.5,53.24,112,maxflow

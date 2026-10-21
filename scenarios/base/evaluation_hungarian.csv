@@ -1,0 +1,2 @@
+Total_Allocated,Demand_Satisfied_%,Supply_Utilized_%,Allocation_Variance,Fairness_Small_Farmers_%,Average_Distance_km,Total_Allocations,Algorithm
+130977,43.6,23.8,0.455,61.82,32.13,44,hungarian
